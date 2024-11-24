@@ -50,9 +50,9 @@ Tools like Grafana or Prometheus can be integrated for shard health monitoring.
 Provides insights into shard utilization and query performance.
 
 ## Technical Stack
-Backend Framework: Spring Boot
-Database: MySQL (sharded setup)
-Sharding Library: Sharding-JDBC (shardingsphere).
-ORM: Hibernate or Spring Data JPA
-Monitoring Tools: Grafana, Prometheus (optional for database monitoring)
+- Backend Framework: Spring Boot
+- Database: MySQL (sharded setup)
+- Sharding Library: Sharding-JDBC (shardingsphere).
+- ORM: Hibernate or Spring Data JPA
+- Monitoring Tools: Grafana, Prometheus (optional for database monitoring)
 
